@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sdc1-knowledge-check-2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d4704a594fd73db8481e88a64e02ff3343bb877")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69038db72f66ab2d7d686e57fbe49e1ef97f07f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("sdc1-knowledge-check-2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sdc1-knowledge-check-2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

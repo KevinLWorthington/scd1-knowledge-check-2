@@ -13,11 +13,10 @@ namespace sdc1_knowledge_check_2.Class
         public int PartNumber { get; set; }
         public int Quantity { get; set; }
         public string? DayofWeek { get; set; }
-        public string? Trial { get; set; }
 
         public override string ToString()
         {
-            return $"Customer Name: {Name}, Part Number: {PartNumber}, Quantity: {Quantity}, Day to Ship: {DayofWeek}, Trial: {Trial}";
+            return $"Customer Name: {Name}, Part Number: {PartNumber}, Quantity: {Quantity}, Day to Ship: {DayofWeek}";
         }
     }
 }

@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2B43939-F020-42F3-97C6-983F21E5BF3C}|sdc1-knowledge-check-2\\sdc1-knowledge-check-2.csproj|c:\\users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\class\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2B43939-F020-42F3-97C6-983F21E5BF3C}|sdc1-knowledge-check-2\\sdc1-knowledge-check-2.csproj|solutionrelative:sdc1-knowledge-check-2\\class\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B43939-F020-42F3-97C6-983F21E5BF3C}|sdc1-knowledge-check-2\\sdc1-knowledge-check-2.csproj|c:\\users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\class\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B43939-F020-42F3-97C6-983F21E5BF3C}|sdc1-knowledge-check-2\\sdc1-knowledge-check-2.csproj|solutionrelative:sdc1-knowledge-check-2\\class\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +30,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trial.cs",
+              "DocumentMoniker": "C:\\Users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Class\\Trial.cs",
+              "RelativeDocumentMoniker": "sdc1-knowledge-check-2\\Class\\Trial.cs",
+              "ToolTip": "C:\\Users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Class\\Trial.cs*",
+              "RelativeToolTip": "sdc1-knowledge-check-2\\Class\\Trial.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T00:34:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Orders.cs",
               "DocumentMoniker": "C:\\Users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Class\\Orders.cs",
               "RelativeDocumentMoniker": "sdc1-knowledge-check-2\\Class\\Orders.cs",
-              "ToolTip": "C:\\Users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Class\\Orders.cs",
-              "RelativeToolTip": "sdc1-knowledge-check-2\\Class\\Orders.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAACHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Class\\Orders.cs*",
+              "RelativeToolTip": "sdc1-knowledge-check-2\\Class\\Orders.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T23:31:02.719Z",
               "EditorCaption": ""
@@ -43,9 +60,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Program.cs",
               "RelativeDocumentMoniker": "sdc1-knowledge-check-2\\Program.cs",
-              "ToolTip": "C:\\Users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Program.cs",
-              "RelativeToolTip": "sdc1-knowledge-check-2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\thesa\\source\\repos\\scd1-knowledge-check-2\\sdc1-knowledge-check-2\\sdc1-knowledge-check-2\\Program.cs*",
+              "RelativeToolTip": "sdc1-knowledge-check-2\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T23:25:48.085Z",
               "EditorCaption": ""
