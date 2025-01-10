@@ -1,12 +1,13 @@
 ﻿using sdc1_knowledge_check_2.Class;
 
+
 // This project is my attempt to adjust the assignment to fit my needs at work. Without context, it may not make sense.
 
 class Program
 {
     static void Main()
     {
-        List<Orders> recordList = [];
+        List<Orders> recordList = new List<Orders>();
 
         Console.WriteLine("Enter Customer Order Data:");
         Console.Write("Name: ");
@@ -43,5 +44,9 @@ class Program
                 Console.WriteLine("Error printing order: " + ex.Message);
             }
         }
+
+        Console.WriteLine("Number of records: " + recordList.Count);
+
+        Console.ReadKey();
     }
 }
